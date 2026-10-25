@@ -1,0 +1,6 @@
+{
+  "name": "CareQueue - Appointment & Queue System",
+  "description": "Clinic appointment and queue management system built with React and MySQL relational database architecture, featuring a staff queue dashboard, patient booking portal, and SQL schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
