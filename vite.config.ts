@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/carequeue/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
